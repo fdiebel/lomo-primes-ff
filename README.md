@@ -9,6 +9,8 @@ I never liked the fact that the original LOMO gears have such a thin contact are
 
 NOTE: You must remove the lens mount to install this gear. If you are not comfortable doing so, then don't! I'll be adding a second version of this gear that will not need the lens mount to be removed.
 
+Designed with [FreeCAD](http://www.freecadweb.org/).
+
 Instructions
 --------
 * Some stuff about print setup.
