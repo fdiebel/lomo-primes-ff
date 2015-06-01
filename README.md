@@ -16,8 +16,8 @@ Instructions
 Author
 --------
 Floyd Diebel (fdiebel)
-<http://emrl.com/>
-<https://www.facebook.com/advertisingisnotacrime> 
+* <http://emrl.com/>
+* <https://www.facebook.com/advertisingisnotacrime> 
 
 License
 --------
