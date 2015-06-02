@@ -1,4 +1,4 @@
-Follow Focus Gears for Lomo Prime Lenses
+Follow Focus Gear - LOMO Prime Lens
 =============
 
 A follow focus gear for LOMO prime lenses designed to replace the original 0.5mm pitch gears with gears that are cinema standard 0.8mm.
