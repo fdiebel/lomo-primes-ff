@@ -15,9 +15,13 @@ Designed with [FreeCAD](http://www.freecadweb.org/).
 
 Instructions
 --------
-* Some stuff about print setup.
-* Maybe some more stuff.
-* Yep, a little more stuff.
+I printed with HIPS filament on the following settings, and results were great
+
+* Layer height: 0.22
+* Walls: 1.05
+* Fill: 20
+
+I suppose if you're concerned about the aesthetics you could use 0.1 layers but to my eye it really wasn't enough a difference to justify the print time.
 
 Author
 --------
